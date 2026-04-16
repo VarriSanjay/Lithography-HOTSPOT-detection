@@ -3,7 +3,7 @@ from test import test_model
 
 print("Starting Training...")
 
-# train_model()
+train_model()
 
 print("Training Finished\n")
 
